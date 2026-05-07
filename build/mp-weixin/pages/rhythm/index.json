@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "节奏练习",
+  "usingComponents": {
+    "page-shell": "../createPage",
+    "rhythm-view": "../../views/RhythmView"
+  }
+}

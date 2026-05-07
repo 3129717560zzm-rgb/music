@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "指板学习",
+  "usingComponents": {
+    "page-shell": "../createPage",
+    "fretboard-view": "../../views/FretboardView"
+  }
+}

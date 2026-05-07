@@ -1,0 +1,1 @@
+<page-shell wx:if="{{a}}" u-s="{{['d']}}" u-i="ba973190-0" bind:__l="__l" u-p="{{a}}"><score-view u-i="ba973190-1,ba973190-0" bind:__l="__l"/></page-shell>

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "节奏闯关",
+  "usingComponents": {
+    "page-shell": "../createPage",
+    "rhythm-game-view": "../../views/RhythmGameView"
+  }
+}

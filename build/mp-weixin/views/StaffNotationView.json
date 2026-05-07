@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "lesson-menu": "../components/staff-notation/LessonMenu",
+    "lesson-content": "../components/staff-notation/LessonContent"
+  }
+}

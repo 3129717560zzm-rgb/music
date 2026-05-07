@@ -1,0 +1,1 @@
+<page-shell wx:if="{{a}}" u-s="{{['d']}}" u-i="a8c23928-0" bind:__l="__l" u-p="{{a}}"><quiz-view u-i="a8c23928-1,a8c23928-0" bind:__l="__l"/></page-shell>
