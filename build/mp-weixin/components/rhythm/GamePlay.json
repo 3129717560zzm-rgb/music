@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "rhythm-notation": "./RhythmNotation",
+    "bpm-slider": "./BpmSlider",
+    "tap-button": "./TapButton"
+  }
+}

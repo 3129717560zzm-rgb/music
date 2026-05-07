@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "calendar-heatmap": "../components/CalendarHeatmap",
+    "skill-radar-chart": "../components/SkillRadarChart"
+  }
+}

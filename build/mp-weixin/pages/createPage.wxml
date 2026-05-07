@@ -1,0 +1,1 @@
+<error-boundary u-s="{{['d']}}" u-i="ca4b0202-0" bind:__l="__l"><blank-layout wx:if="{{a}}" u-s="{{['d']}}" u-i="ca4b0202-1,ca4b0202-0" bind:__l="__l"><slot/></blank-layout><default-layout wx:else u-s="{{['d']}}" u-i="ca4b0202-2,ca4b0202-0" bind:__l="__l"><slot/></default-layout><onboarding-modal wx:if="{{b}}" u-i="ca4b0202-3,ca4b0202-0" bind:__l="__l"/></error-boundary>

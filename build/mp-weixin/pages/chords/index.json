@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "和弦学习",
+  "usingComponents": {
+    "page-shell": "../createPage",
+    "chords-view": "../../views/ChordsView"
+  }
+}

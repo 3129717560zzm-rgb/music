@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js");Math||(r+s)();const s=()=>"../createPage.js",r=()=>"../../views/ProgressView.js",n=e.defineComponent({__name:"index",setup:s=>(s,r)=>({a:e.p({route:"/pages/progress/index"})})});wx.createPage(n);

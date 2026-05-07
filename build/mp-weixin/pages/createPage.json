@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "default-layout": "../layouts/DefaultLayout",
+    "blank-layout": "../layouts/BlankLayout",
+    "error-boundary": "../components/common/ErrorBoundary",
+    "onboarding-modal": "../components/OnboardingModal"
+  }
+}

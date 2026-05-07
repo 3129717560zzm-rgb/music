@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "score-reading-example": "./ScoreReadingExample"
+  }
+}
