@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "五线谱教程",
+  "usingComponents": {
+    "page-shell": "../createPage",
+    "staff-notation-view": "../../views/StaffNotationView"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="min-h-screen bg-dark-950 text-gray-100"><slot/></view>

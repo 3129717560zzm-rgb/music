@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "学习进度",
+  "usingComponents": {
+    "page-shell": "../createPage",
+    "progress-view": "../../views/ProgressView"
+  }
+}

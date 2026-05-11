@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tap-button": "../components/rhythm/TapButton",
+    "rhythm-visualizer": "../components/rhythm/RhythmVisualizer",
+    "song-rhythm": "../components/rhythm/SongRhythm"
+  }
+}

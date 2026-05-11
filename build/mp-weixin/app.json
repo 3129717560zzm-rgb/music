@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/quiz/index",
+    "pages/fretboard/index",
+    "pages/chords/index",
+    "pages/scores/index",
+    "pages/progress/index",
+    "pages/rhythm/index",
+    "pages/rhythm-game/index",
+    "pages/staff-notation/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "吉他乐理学习",
+    "navigationBarBackgroundColor": "#1c1917",
+    "backgroundColor": "#0c0a09"
+  },
+  "usingComponents": {}
+}

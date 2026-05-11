@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "world-map": "../components/rhythm/WorldMap",
+    "level-select": "../components/rhythm/LevelSelect",
+    "game-play": "../components/rhythm/GamePlay"
+  }
+}
