@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js");Math||(a+t)();const t=()=>"../createPage.js",a=()=>"../../views/RhythmGameView.js",n=e.defineComponent({__name:"index",setup:t=>(t,a)=>({a:e.p({route:"/pages/rhythm-game/index"})})});wx.createPage(n);

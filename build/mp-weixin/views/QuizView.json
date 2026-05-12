@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "chord-diagram": "../components/chord/ChordDiagram"
+  }
+}

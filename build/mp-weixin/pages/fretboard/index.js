@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js");Math||(r+t)();const t=()=>"../createPage.js",r=()=>"../../views/FretboardView.js",a=e.defineComponent({__name:"index",setup:t=>(t,r)=>({a:e.p({route:"/pages/fretboard/index"})})});wx.createPage(a);

@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js");Math||(o+n)();const n=()=>"../createPage.js",o=()=>"../../views/Home.js",s=e.defineComponent({__name:"index",setup:n=>(n,o)=>({a:e.p({route:"/pages/home/index"})})});wx.createPage(s);

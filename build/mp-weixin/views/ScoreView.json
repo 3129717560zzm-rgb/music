@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "staff-score": "../components/score/StaffScore",
+    "jianpu-score": "../components/score/JianpuScore",
+    "score-player": "../components/score/ScorePlayer",
+    "alpha-tab-dual-score": "../components/score/AlphaTabDualScore"
+  }
+}

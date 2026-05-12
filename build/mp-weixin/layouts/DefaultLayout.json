@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "app-header": "../components/common/AppHeader",
+    "app-nav": "../components/common/AppNav"
+  }
+}

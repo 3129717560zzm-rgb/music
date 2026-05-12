@@ -1,0 +1,1 @@
+<page-shell wx:if="{{a}}" u-s="{{['d']}}" u-i="02a3102c-0" bind:__l="__l" u-p="{{a}}"><fretboard-view u-i="02a3102c-1,02a3102c-0" bind:__l="__l"/></page-shell>

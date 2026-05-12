@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "乐理练习",
+  "usingComponents": {
+    "page-shell": "../createPage",
+    "quiz-view": "../../views/QuizView"
+  }
+}

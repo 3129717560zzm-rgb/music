@@ -1,0 +1,1 @@
+<page-shell wx:if="{{a}}" u-s="{{['d']}}" u-i="3cc95ae8-0" bind:__l="__l" u-p="{{a}}"><rhythm-game-view u-i="3cc95ae8-1,3cc95ae8-0" bind:__l="__l"/></page-shell>

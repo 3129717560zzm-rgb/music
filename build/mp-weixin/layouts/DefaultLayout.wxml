@@ -1,0 +1,1 @@
+<view class="min-h-screen bg-dark-950 text-gray-100"><app-header wx:if="{{a}}" bindtoggleMobileNav="{{b}}" u-i="01fa9fcc-0" bind:__l="__l"/><view class="flex"><app-nav wx:if="{{c}}" bindcloseMobile="{{d}}" u-i="01fa9fcc-1" bind:__l="__l" u-p="{{e}}"/><view class="{{['flex-1', 'min-w-0', f]}}"><slot/></view></view></view>

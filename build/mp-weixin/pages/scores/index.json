@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "乐谱",
+  "usingComponents": {
+    "page-shell": "../createPage",
+    "score-view": "../../views/ScoreView"
+  }
+}

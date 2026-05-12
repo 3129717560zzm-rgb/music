@@ -1,0 +1,40 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true,
+    "bigPackageSizeSupport": true,
+    "minifyWXSS": false,
+    "minifyWXML": false,
+    "useCompilerPlugins": false,
+    "enhance": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "",
+  "appid": "wxa0e71328670a9d1c",
+  "projectname": "吉他乐理学习",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": -1,
+      "list": []
+    }
+  }
+}
